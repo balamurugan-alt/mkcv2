@@ -1,6 +1,7 @@
 // TODO: Remove the below eslint disable when eslint-config-next is updated to support tsx files for that validation
 // eslint-disable-next-line @next/next/no-document-import-in-page
 import Document, { Html, Head, Main, NextScript } from 'next/document';
+import Script from 'next/script';
 
 class MyDocument extends Document {
   render(): JSX.Element {
@@ -15,6 +16,17 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
+          <Script
+            src="https://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js"
+            strategy="lazyOnload"
+          />
+          <Script src="https://cdn.whisk.com/sdk/shopping-list.js" strategy="lazyOnload" />
+          <Script
+            src="//destinilocators.com/mccormickcompany/pdpwidget/install/"
+            strategy="lazyOnload"
+          />
+          <Script src="//ui.powerreviews.com/stable/4.1/ui.js" />
+          <Script src="https://connect.facebook.net/en_US/all.js" strategy="lazyOnload" />
         </body>
       </Html>
     );
