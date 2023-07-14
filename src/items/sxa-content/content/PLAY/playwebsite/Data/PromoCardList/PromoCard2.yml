@@ -1,0 +1,27 @@
+﻿---
+ID: "7fc660ec-135e-4c9a-99ec-ce483e23f632"
+Parent: "de9d701d-2cff-432c-b582-f24e8b51bde3"
+Template: "45bad367-4651-40ed-806d-81e8201a23a6"
+Path: /sitecore/content/PLAY/playwebsite/Data/PromoCardList/PromoCard2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "40bdf3f6-3977-49e4-864e-3e646fbcc41d"
+      Hint: CardDescription
+      Value: "Plan your meals, build your digital pantry, save recipes, and more!"
+    - ID: "455e8f69-6964-4804-aa11-04595a7fddb7"
+      Hint: CardTitle
+      Value: Flavor Maker
+    - ID: "7e72b9fb-4e22-4ca4-b5c7-749b55a30fa6"
+      Hint: CardButton
+      Value: |
+        <link text="Download Now" linktype="external" url="http://google.com" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b1f84ac-0c72-469e-85a2-334039ccf50e"
+    - ID: "e8dc36a5-bcee-4ce8-b907-97f269b828db"
+      Hint: CardImage
+      Value: |
+        <image mediaid="{9FDD81F8-B610-43D4-8D09-6DE4606134E1}" />

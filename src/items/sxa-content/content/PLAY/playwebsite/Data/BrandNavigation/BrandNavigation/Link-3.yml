@@ -1,0 +1,20 @@
+﻿---
+ID: "2acee4d5-1a14-478b-be55-aa59d8210747"
+Parent: "d9c18303-1721-4050-ad4c-327d8faac2d2"
+Template: "9acb0726-32bd-4b2d-ba6a-eac1e1ca4e6e"
+Path: "/sitecore/content/PLAY/playwebsite/Data/BrandNavigation/BrandNavigation/Link-3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "10bf29b0-a29d-4669-b0ca-e8702ef118fc"
+      Hint: Title
+      Value: Grill Mates
+    - ID: "52096706-3475-4729-b8e6-e23fe0b78e52"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FB195B79-6800-4B15-984B-CE10A4491A8F}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a67e1b2-68e9-4109-a6e3-7f92f47a3886"

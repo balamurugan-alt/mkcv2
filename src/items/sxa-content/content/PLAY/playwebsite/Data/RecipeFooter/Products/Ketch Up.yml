@@ -1,0 +1,17 @@
+﻿---
+ID: "8e6c0338-7fcb-4cc2-b2a2-28e920851d3c"
+Parent: "7ecf3746-8d19-4135-bf35-d778340148fc"
+Template: "ce8e28f6-c530-4bd5-9ca5-00d7d42c26c0"
+Path: /sitecore/content/PLAY/playwebsite/Data/RecipeFooter/Products/Ketch Up
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9b2b267-c430-4cb6-987e-8b0f7f85527f"
+    - ID: "a277748b-2c48-44a6-a99f-c9f353933027"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{6CF37FF6-755C-5B1A-B5EB-63F03481DB4A}" />

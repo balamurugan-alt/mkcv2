@@ -1,0 +1,19 @@
+﻿---
+ID: "89b5c910-ae6e-4c27-958c-6690619ed17a"
+Parent: "fe79cd60-112b-454a-96d5-fcc27eb32335"
+Template: "a9656b6e-6db9-4b43-8737-0d1e01fc7f19"
+Path: "/sitecore/content/PLAY/playwebsite/Data/Instructions/Instructions/Instructions-2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "30d7747c-a705-4ac4-bed3-3a9fed3d5159"
+      Hint: Details
+      Value: <p>Bake 30 minutes or until hot. Stir.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "708a3dfa-3e6c-4e36-9f2b-ad76004858c3"
+    - ID: "97fb2296-1961-460c-98b8-bdf2cdafd08b"
+      Hint: Heading
+      Value: 

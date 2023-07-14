@@ -1,0 +1,27 @@
+﻿---
+ID: "d98743c5-410c-4a36-8ac3-36456cecf13f"
+Parent: "75a63141-f7c7-4aa0-adce-08dff1f1527d"
+Template: "a2565648-8d04-42bc-83e0-ecad34ea9820"
+Path: "/sitecore/content/PLAY/playwebsite/Data/RelatedArticles/RelatedArticles/Articles-5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "61fb5323-a8f4-4c79-83f2-e4e35f6178e8"
+      Hint: Image
+      Value: |
+        <image mediaid="{6F37E3C1-BFB0-402A-B7CA-4C1700BBC150}" />
+    - ID: "71e5d44d-9c05-477e-83c5-a4a5c95d078a"
+      Hint: Details
+      Value: "In our line of work, food safety is always top of mind. Done with the proper care, reheating leftovers can be easy and tasty. - McCormick Test...                                                                              "
+    - ID: "7e1cb417-f062-4776-a00f-89c2fa2c7e8c"
+      Hint: Title
+      Value: The Best Ways to Reheat Food for Flavor and Safety 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc8f084a-0dd8-4b3a-9514-d8668f28d6c3"
+    - ID: "a4bcf5bd-dd9b-44f7-ba99-da67618978ee"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FB195B79-6800-4B15-984B-CE10A4491A8F}" />

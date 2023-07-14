@@ -1,0 +1,16 @@
+﻿---
+ID: "9575fc91-c3a0-4b9d-9565-411b7ce8ba88"
+Parent: "f8e167b1-9e5c-45b5-b360-a9c2040c9fca"
+Template: "3ea7868b-b20b-4e0d-b072-22a7f1a22cfc"
+Path: /sitecore/content/PLAY/playwebsite/Data/SocialmediaFolder/SocialMediaLinks
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8be825e3-f7ee-45ec-a32d-c76d1d3f5aca"
+    - ID: "e9ef4723-1ce1-4276-8589-3f292087b88a"
+      Hint: ListTitle
+      Value: Social Media

@@ -1,0 +1,20 @@
+﻿---
+ID: "2b842767-1e0d-4973-96d3-2a6b9bc7feb6"
+Parent: "a2f6d31e-c144-46c6-82a5-2aa40cb0dc89"
+Template: "ce8e28f6-c530-4bd5-9ca5-00d7d42c26c0"
+Path: /sitecore/content/PLAY/playwebsite/Data/RecipeFooter/About Us/Videos
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "abd3c750-c213-4613-8fdf-0c49e050be99"
+    - ID: "bf52b591-6456-4189-b1cc-4a50b2647017"
+      Hint: Fontawesome Icon Name
+      Value: faFacebookF

@@ -1,0 +1,66 @@
+.promoCard {
+    margin-top: 80px !important;
+    display: flex;
+}
+.promoCard .cardContent {
+    position: relative;
+}
+
+.promoCard .cardContent img{
+    background-color: #da291c;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 0 auto;
+    height: 380px;
+}
+
+@media (max-width:992px){
+    .promoCard .cardContent img{
+    height: 410px;}
+    .promoCard .cardContent .content{
+        top: 20px;
+        left: 15px;
+        right: 15px;
+    }
+    }
+
+.promoCard .cardContent .content{
+   position: absolute;
+   top: 50px;
+   left: 30px;
+   right: 30px;
+}
+
+.promoCard h3 {
+    color: #fff;
+    font-size: 42px;
+    font-family: Neuzeit, sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.promoCard p {
+    color: #fff;
+    background-color: rgba(0, 0, 0, .01);
+    font-family: "Trade Gothic Light";
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.promoCard .btnLib a {
+    border-radius: 0;
+    padding: 11px 30px;
+    background-color: #fff;
+    color: #000;
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 1.3;
+    font-family: Trade Gothic Bold Condensed;
+    display: inline-block;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease-in-out;
+    border: 0;
+    text-align: center;
+    text-decoration: none;
+}

@@ -1,0 +1,20 @@
+﻿---
+ID: "592db1b8-7a89-479c-a614-c6a1b46c22c0"
+Parent: "ea664335-f4fb-4180-9aa3-889a71470488"
+Template: "ade9eff4-da78-4e26-9248-b01bd93eae95"
+Path: /sitecore/content/PLAY/playwebsite/Data/video/Video
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22379a66-606e-4205-abee-f9ac597084dd"
+      Hint: PosterImage
+      Value: |
+        <image mediaid="{C14569B6-D34A-4A30-B842-B30604242122}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c74fa8a4-7f55-4d52-a06e-5b56cb16d1ed"
+    - ID: "c7abdb60-3f28-4d17-b457-2056710e384f"
+      Hint: YoutubeMovie
+      Value: 5988416512001

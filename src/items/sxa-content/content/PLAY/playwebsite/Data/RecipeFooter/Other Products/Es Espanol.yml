@@ -1,0 +1,13 @@
+﻿---
+ID: "a65b5416-8aab-4725-b114-2b2ac2e067b1"
+Parent: "1a8fa205-638f-4f75-adf8-0f8e169bb6cc"
+Template: "ce8e28f6-c530-4bd5-9ca5-00d7d42c26c0"
+Path: /sitecore/content/PLAY/playwebsite/Data/RecipeFooter/Other Products/Es Espanol
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9583512a-5cfd-4130-9ec7-53ac3c503ea2"

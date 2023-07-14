@@ -1,0 +1,13 @@
+﻿---
+ID: "77656c9a-fe87-47c9-b31a-86bb9adeace9"
+Parent: "1a8fa205-638f-4f75-adf8-0f8e169bb6cc"
+Template: "ce8e28f6-c530-4bd5-9ca5-00d7d42c26c0"
+Path: /sitecore/content/PLAY/playwebsite/Data/RecipeFooter/Other Products/Cholula
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec714316-7b43-4c34-b648-eebfda2380d0"

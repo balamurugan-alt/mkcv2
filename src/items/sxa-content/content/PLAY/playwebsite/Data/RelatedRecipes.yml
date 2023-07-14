@@ -1,0 +1,13 @@
+﻿---
+ID: "4ae5dcca-0e9c-47e6-9884-3fd386c61660"
+Parent: "44864379-85fa-46df-a102-35a8bc2391b5"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/Data/RelatedRecipes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7e1edd5-9e65-4eb1-9171-cee850e4fc66"

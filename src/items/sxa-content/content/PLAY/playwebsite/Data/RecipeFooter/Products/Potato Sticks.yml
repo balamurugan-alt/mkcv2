@@ -1,0 +1,13 @@
+﻿---
+ID: "df728b02-d96a-4566-b107-1d69391b239a"
+Parent: "7ecf3746-8d19-4135-bf35-d778340148fc"
+Template: "ce8e28f6-c530-4bd5-9ca5-00d7d42c26c0"
+Path: /sitecore/content/PLAY/playwebsite/Data/RecipeFooter/Products/Potato Sticks
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "506d2b78-adaa-4d91-991f-56759374274f"

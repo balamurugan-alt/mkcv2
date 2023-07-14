@@ -1,0 +1,31 @@
+.owBtn {
+
+    background-color: red;
+
+    border: none;
+
+    padding: 7px 20px;
+    /* optional: add padding to create some space around the link */
+
+    color: white;
+    /* optional: change the text color to white to make it more visible */
+
+    text-decoration: none;
+    /* optional: remove the underline from the link */
+
+    width: max-content;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.owBtn a{
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.owBtn a:hover{
+    color: white;
+    text-decoration: none;
+}

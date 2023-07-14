@@ -1,0 +1,23 @@
+﻿---
+ID: "a523e77a-0fca-43d4-b340-015e49337fca"
+Parent: "44864379-85fa-46df-a102-35a8bc2391b5"
+Template: "e9228419-cc93-467f-a9d1-7cb5d927cae8"
+Path: /sitecore/content/PLAY/playwebsite/Data/Recipe Button
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "76b46725-094f-43c2-b778-6efd4d6648f7"
+      Hint: ButtonColor
+      Value: da291c
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d69d52ba-9d9b-4a84-a8d3-3683c0591298"
+    - ID: "bc0fa279-32b0-4402-8d24-ead4d0c86f80"
+      Hint: ButtonLink
+      Value: |
+        <link text="View Recipe Only" linktype="external" url="http://google.com" anchor="" target="" />
+    - ID: "c2cbe52b-e000-4c29-9691-5efc5fc01fce"
+      Hint: ButtonText
+      Value: View Recipe Only

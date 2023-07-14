@@ -1,0 +1,24 @@
+﻿---
+ID: "1a5ae509-a222-446c-a027-495cba42341d"
+Parent: "1ec13c79-e9fa-404b-89d3-cb2f327fbc40"
+Template: "215fa4c2-66e0-4a7f-8f0d-e323c2ea203a"
+Path: "/sitecore/content/PLAY/playwebsite/Data/RelatedRecipes/RelatedRecipes/Recipes-3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8833c070-9f24-41f6-b590-ab117b6e56d8"
+      Hint: Image
+      Value: |
+        <image mediaid="{DEAF21AB-DEA6-5FEF-8893-4CFEB946819F}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2cd96580-f5a5-4bb8-a55e-e1f62b29ee01"
+    - ID: "b43a27f2-c8ac-404e-aeb6-65726b9e84d1"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FB195B79-6800-4B15-984B-CE10A4491A8F}" />
+    - ID: "d6d074db-48e2-4a72-9234-437fe113a942"
+      Hint: Title
+      Value: CHICKEN SALAD WITH CREAMY PEPPER PARMESAN DRESSING

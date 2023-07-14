@@ -1,0 +1,28 @@
+﻿---
+ID: "c08fc192-7da5-4e2e-8749-0c60d2dacce1"
+Parent: "fe79cd60-112b-454a-96d5-fcc27eb32335"
+Template: "a9656b6e-6db9-4b43-8737-0d1e01fc7f19"
+Path: "/sitecore/content/PLAY/playwebsite/Data/Instructions/Instructions/Instructions-3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "30d7747c-a705-4ac4-bed3-3a9fed3d5159"
+      Hint: Details
+      Value: |
+        <p>Top with remaining 2/3 cup onions.  Bake 5 minutes longer or until onions are golden brown.</p>
+        <i>
+                                    
+                                    
+                                    
+                                        <strong>Can you make Green Bean Casserole ahead of time? </strong>Sure!
+        Prepare this casserole right up until the baking step (Step 2) and freeze it! Thaw in the fridge the night before baking or increase the bake time by 15 minute increments until the center reaches 160°F.
+                                    
+                                </i>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b385702b-4b6b-4499-b985-65fc66281592"
+    - ID: "97fb2296-1961-460c-98b8-bdf2cdafd08b"
+      Hint: Heading
+      Value: 

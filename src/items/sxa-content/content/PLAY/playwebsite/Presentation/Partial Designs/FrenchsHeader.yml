@@ -1,0 +1,49 @@
+﻿---
+ID: "8dc4dded-afc2-4412-8db8-8c3e96aa6313"
+Parent: "acee8ee1-8f3a-4901-982e-40d501989f64"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/PLAY/playwebsite/Presentation/Partial Designs/FrenchsHeader
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: frenchsheader
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EEC0E544-5607-474C-8064-E43ED8680434}"
+          p:before="*"
+          s:ds="{D9C18303-1721-4050-AD4C-327D8FAAC2D2}"
+          s:id="{05BFFB3D-A6B6-4001-BA99-FB1F657AAD65}"
+          s:par="CSSStyles"
+          s:ph="headless-header"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{6F291EA3-B3B3-4862-BB4D-A57B2D53050D}"
+          p:after="*[1=2]"
+          s:ds="{BE4B7297-AC26-4E79-AC6D-F690E81DB073}"
+          s:id="{88DDF0BB-8DA3-48BB-91F8-BFBB74629A88}"
+          s:par="CSSStyles"
+          s:ph="headless-header"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f431209-951b-4951-87ca-ffefc4806c96"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2a162ae-4e28-40c4-91d8-67d02ba550a2"

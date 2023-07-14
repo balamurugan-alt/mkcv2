@@ -1,0 +1,17 @@
+﻿---
+ID: "9427ba4a-1416-482e-913c-b0670d20df68"
+Parent: "7fcb0410-2c5a-4e2a-abdb-aa31ebbbdeaf"
+Template: "ce8e28f6-c530-4bd5-9ca5-00d7d42c26c0"
+Path: /sitecore/content/PLAY/playwebsite/Data/RecipeFooter/Recipes/Appetizers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e7455ed-3731-40b0-8e3c-ceac7756e1af"
+    - ID: "a277748b-2c48-44a6-a99f-c9f353933027"
+      Hint: Link
+      Value: |
+        <link class="" id="{68DC89A4-1B04-59A8-9C4E-3B49D6C61052}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/PLAY/playwebsite/home/sessions" />

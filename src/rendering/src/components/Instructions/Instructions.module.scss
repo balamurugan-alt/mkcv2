@@ -1,0 +1,24 @@
+@import 'styles/sass/variables/variables';
+@import 'styles/sass/abstracts/mixins';
+
+.number {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.listitem {
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  @include respond-to('tab') {
+    flex-direction: row;
+    align-items: baseline;
+  }
+}
+
+.listitemdata{
+    text-align: center;
+    @include respond-to('tab') {
+        text-align: start;
+      }
+}

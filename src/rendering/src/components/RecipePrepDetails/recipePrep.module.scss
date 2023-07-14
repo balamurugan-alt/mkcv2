@@ -1,0 +1,81 @@
+.recipePrep .note {
+    color: white;
+    margin-bottom: 20px;
+}
+.recipePrep .note .bg {
+    background-color: #c30000;
+    flex-wrap: nowrap;
+}
+.recipePrep .note h2 {
+    color: black;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.recipePrep .column2 {
+    float: left;
+    width: 90%;
+    padding: 10px;
+}
+.recipePrep .column2 p {
+    margin-bottom: 0;
+}
+.recipePrep .column1 {
+    float: left;
+    min-width: 10%;
+    padding: 10px;
+    max-width: max-content;
+}
+.recipePrep .column1 img {
+    padding: 8px 0px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.recipePrep .column {
+    display: flex;
+    margin-bottom: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+    line-height: 1;
+}
+.recipePrep .column .info {
+    padding: 0 15px;
+}
+.recipePrep .column .info:first-child {
+    padding-left: 0px;
+}
+.recipePrep .column .info:not(:first-child) {
+    border-left: 1px solid #000;
+}
+.recipePrep .column .info .text1 {
+    font-size: 30px;
+    font-family: Trade Gothic Bold Condensed;
+    color: #000;
+    text-align: center;
+    line-height: 1;
+    padding-bottom: 5px;
+}
+.recipePrep .column .info .text2 {
+    font-size: 16px;
+    font-family: Trade Gothic Bold Condensed;
+    color: #000;
+    text-transform: uppercase;
+}
+.recipePrep .less p {
+    margin-bottom: 0;
+}
+.recipePrep .buttn {
+    padding: 15px 0px;
+    font-size: 20px;
+    font-weight: 700;
+    display: block;
+    font-family: "Trade Gothic W01 Bold";
+    color: #da291c;
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+.recipePrep .buttn:hover, .recipePrep .buttn:active, .recipePrep .buttn:focus {
+    background-color: transparent !important;
+    border-color: transparent !important;
+    box-shadow: none !important;
+}

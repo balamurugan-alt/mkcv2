@@ -1,0 +1,16 @@
+﻿---
+ID: "1ec13c79-e9fa-404b-89d3-cb2f327fbc40"
+Parent: "4ae5dcca-0e9c-47e6-9884-3fd386c61660"
+Template: "60c9ac62-4227-443e-8980-92c97e483832"
+Path: /sitecore/content/PLAY/playwebsite/Data/RelatedRecipes/RelatedRecipes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f5115c8-b417-4fdb-a1c8-65a6870f567b"
+    - ID: "dc9aaee9-fc44-458d-a9fb-bac61d8b0234"
+      Hint: Title
+      Value: RELATED RECIPES

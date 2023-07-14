@@ -1,0 +1,22 @@
+﻿---
+ID: "b88b5702-8208-4d96-93a6-f2090d71c733"
+Parent: "22f3e674-3baa-485a-9708-2e20ccc88d3a"
+Template: "c4d274b2-b65d-46c3-8067-f32cf06fab21"
+Path: /sitecore/content/PLAY/playwebsite/Data/IngredientL List/IngredientList
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "76224191-9a3b-4247-9d82-ab99dd9bbd27"
+      Hint: Serving_Count
+      Value: 6
+    - ID: "7cb07aec-46a6-47bc-8c1d-983cfa1416fb"
+      Hint: Serving_Text
+      Value: Servings
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21705c84-e333-4c23-a4ab-232be72ff8ad"
+    - ID: "af353175-2da7-407e-a1c8-67b9ff48345a"
+      Hint: Heading
+      Value: Ingredients

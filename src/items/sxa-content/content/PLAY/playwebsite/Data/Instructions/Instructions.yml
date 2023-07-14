@@ -1,0 +1,16 @@
+﻿---
+ID: "fe79cd60-112b-454a-96d5-fcc27eb32335"
+Parent: "525d3d0c-b770-48b1-a182-f9422e34e0af"
+Template: "60c9ac62-4227-443e-8980-92c97e483832"
+Path: /sitecore/content/PLAY/playwebsite/Data/Instructions/Instructions
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c060f7fe-4182-4f8e-8157-e461eb9aa9fa"
+    - ID: "dc9aaee9-fc44-458d-a9fb-bac61d8b0234"
+      Hint: Title
+      Value: Instructions

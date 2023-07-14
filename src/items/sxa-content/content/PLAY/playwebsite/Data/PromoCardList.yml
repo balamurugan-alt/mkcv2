@@ -1,0 +1,13 @@
+﻿---
+ID: "de9d701d-2cff-432c-b582-f24e8b51bde3"
+Parent: "44864379-85fa-46df-a102-35a8bc2391b5"
+Template: "b5bf44b5-ee10-4f6c-9386-f839ab2f516e"
+Path: /sitecore/content/PLAY/playwebsite/Data/PromoCardList
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "838a5f93-3c1d-44a8-9299-9808cd5699d5"

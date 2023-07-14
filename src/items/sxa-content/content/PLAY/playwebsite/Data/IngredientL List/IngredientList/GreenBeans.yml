@@ -1,0 +1,30 @@
+﻿---
+ID: "234915d9-bc80-44f9-bdb1-b035b223b807"
+Parent: "b88b5702-8208-4d96-93a6-f2090d71c733"
+Template: "25033b93-c2d5-4a96-b703-0c56fbb4692f"
+Path: /sitecore/content/PLAY/playwebsite/Data/IngredientL List/IngredientList/GreenBeans
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12ec8929-5784-4bc2-8a7e-17b669ff0016"
+      Hint: Description
+      Value: |
+        2
+        cans
+        
+        (14 1/2 ounces each) 
+        any style Del Monte® Green Beans, drained
+        
+        <a href="#" id="substitutions-link-1" class="btn-link substitutions-link">Substitutions available</a>
+        <ul id="substitutions-content-1" class="substitutions-content">
+        <li>4 cups trimmed fresh or frozen green beans, cooked</li>
+        </ul>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46e8029a-c53c-4983-8a14-d12df6d061fc"

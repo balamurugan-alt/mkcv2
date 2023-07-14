@@ -1,0 +1,17 @@
+﻿---
+ID: "7fcb0410-2c5a-4e2a-abdb-aa31ebbbdeaf"
+Parent: "a0d86385-4a64-48ff-a717-ac1129b02625"
+Template: "ac3d649a-610a-4f10-be28-78efa6d80e0e"
+Path: /sitecore/content/PLAY/playwebsite/Data/RecipeFooter/Recipes
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 38
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46747280-3565-465a-84ce-eb5943570103"

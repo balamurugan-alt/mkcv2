@@ -1,0 +1,21 @@
+﻿---
+ID: "26943939-7768-42b4-8c2c-28a26d5482a1"
+Parent: "19034d30-3f85-43f6-b0d1-c695c2af3c69"
+Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
+Path: /sitecore/content/PLAY/playwebsite/Data/Link Lists/FooterLinkList/SiteMap
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
+      Hint: Link
+      Value: |
+        <link text="Sitemap" linktype="external" url="https://www.mccormick.com/sitemap" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e8208cb-4d7f-4de0-a72c-61a6ee95f3f6"

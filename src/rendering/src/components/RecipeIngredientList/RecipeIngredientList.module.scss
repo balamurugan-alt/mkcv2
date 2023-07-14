@@ -1,0 +1,56 @@
+.recipeList .mainTitle{
+    font-size: 30px;
+    color: #000;
+    line-height: 1.2;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    text-align: left;
+    font-weight: 400;
+    padding-left: 20px;
+    padding-right: 10px;
+    margin-top: 30px;
+}
+
+.recipeList .mainTitle span{
+    padding-right: 10px;
+} 
+
+.recipeList .mainTitle small{
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+.recipeList{
+    padding-right: 20px;
+}
+
+.recipeList ul{
+    padding-left: 20px !important;
+}
+
+.recipeList ul li{
+    color: #333;
+    font-size: 14px;
+    line-height: 26px;
+    padding-right: 40px;
+}
+
+.recipeList ul li:first-child{
+    margin-top: 0;
+}
+
+.recipeList ul li a{
+    color: #da291c;
+    cursor: pointer;
+    text-decoration:none;
+}       
+
+.recipeList ul li a:hover{
+    color: #da291c !important;
+    cursor: pointer;
+    text-decoration:underline;
+}
+
+.recipeList ul li ul{
+    display: none;
+}   

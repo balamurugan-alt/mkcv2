@@ -1,0 +1,23 @@
+﻿---
+ID: "3a4c85cb-5d26-439f-8b2a-6bd0738c2aa5"
+Parent: "b88b5702-8208-4d96-93a6-f2090d71c733"
+Template: "25033b93-c2d5-4a96-b703-0c56fbb4692f"
+Path: /sitecore/content/PLAY/playwebsite/Data/IngredientL List/IngredientList/Campbell Condensed
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12ec8929-5784-4bc2-8a7e-17b669ff0016"
+      Hint: Description
+      Value: |
+        1
+        can
+        
+        (10 1/2  ounces)
+        
+         
+        Campbell's® Condensed Cream of Mushroom Soup
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c236747-5676-4c63-869a-b056c0c8e382"

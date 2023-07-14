@@ -1,0 +1,615 @@
+.ow-banner-content-wrapper {
+    padding-left: 30px !important;
+}
+
+.breadcrum {
+    padding-top: 30px !important;
+    padding-bottom: 23px !important;
+    padding-left: 15px !important;
+}
+
+.breadcrum.component>.component-content nav ol {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.breadcrum.component>.component-content nav ol li.breadcrumb-item {
+    position: relative;
+    display: block;
+    float: left;
+    line-height: 1;
+}
+
+.breadcrum.component>.component-content nav ol li.breadcrumb-item::before {
+    content: none;
+}
+
+.breadcrum.component>.component-content nav ol li.breadcrumb-item span::before {
+    content: none;
+}
+
+.breadcrum.component>.component-content nav ol li.breadcrumb-item .separator {
+    color: #747474;
+    margin: 0 10px 0 8px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 20px;
+    font-size: 12px;
+}
+
+.breadcrum.component>.component-content nav ol li.breadcrumb-item>.navigation-title {
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.breadcrum.component>.component-content nav ol li.breadcrumb-item>.navigation-title a {
+    color: #d3440e;
+    text-decoration: none;
+    line-height: 20px;
+    font-size: 12px;
+}
+
+.breadcrum.component>.component-content nav ol li.breadcrumb-item.last .separator {
+    display: none;
+}
+
+.breadcrum.component>.component-content nav ol li.breadcrumb-item.last a {
+    font-weight: 500;
+    color: #747474;
+    cursor: text;
+}
+
+.ow-banner-content-wrapper .ow-banner-content .heading-title,
+.ow-banner-content-wrapper .ow-banner-content h1 {
+    margin-bottom: 20px;
+    font-size: 42px;
+    font-weight: 400;
+}
+
+.ow-banner-content-wrapper .ow-banner-content h1 {
+    font-family: Neuzeit, sans-serif !important;
+    color: #000;
+    padding-left: 3px;
+}
+
+.ow-banner-content #pr-reviewsnippet {
+    margin-bottom: 20px;
+}
+
+.ow-banner-content-wrapper #pr-reviewsnippet {
+    padding-left: 0px;
+}
+
+@media screen and (min-width: 992px) {
+    #pr-reviewsnippet {
+        margin-top: 0;
+    }
+}
+
+.p-w-r {
+    -webkit-font-smoothing: subpixel-antialiased !important;
+    color: #000;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    display: block !important;
+    font-family: 'Trade Gothic Light' !important;
+}
+
+.p-w-r .pr-snippet-stars-reco-inline .pr-snippet-read-and-write a {
+    color: #da291c;
+}
+
+.ow-banner-content #pr-reviewsnippet .p-w-r .pr-snippet-read-and-write a.pr-snippet-review-count,
+.ow-banner-content #pr-reviewsnippet .p-w-r .pr-snippet-read-and-write span.pr-snippet-review-count {
+    border-right: 1px solid #ddd;
+}
+
+.ow-banner-content #pr-reviewsnippet .p-w-r .pr-snippet-read-and-write a,
+.ow-banner-content #pr-reviewsnippet .p-w-r .pr-snippet-read-and-write span {
+    display: inline-block;
+    vertical-align: top;
+    line-height: 21px;
+}
+
+.ow-banner-content-wrapper #pr-reviewsnippet .p-w-r .pr-snippet-stars-reco-inline .pr-snippet-stars-reco-reco {
+    float: none;
+}
+
+.ow-banner-content-wrapper #pr-reviewsnippet .p-w-r .pr-snippet-stars-reco-inline .pr-snippet-stars-reco-stars {
+    margin-bottom: 20px;
+}
+
+.p-w-r .pr-snippet-reco-to-friend {
+    max-width: 245px;
+}
+
+.ow-banner-content-wrapper .ow-banner-content .utility-icons {
+    margin-bottom: 0;
+}
+
+.utility-icons {
+    position: relative;
+    display: block;
+}
+
+.utility-icons ul {
+    display: inline-block;
+}
+
+@media only screen and (min-width: 768px) {
+    .ow-banner-content-wrapper .ow-banner-content .utility-icons ul li {
+        margin-bottom: 0;
+    }
+}
+
+.ow-banner-content-wrapper .ow-banner-content .utility-icons ul li {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.utility-icons ul li {
+    float: left;
+    margin-right: 15px;
+}
+
+.utility-icons .icon-button {
+    background: 0 0;
+    border: none;
+    display: inline-flex;
+    padding: 0;
+}
+
+.utility-icons ul li .icon-holder span.icon {
+    display: block;
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.icon-holder span.icon {
+    margin-right: 5px;
+    position: relative;
+    width: 38px;
+    height: 38px;
+}
+
+.icon-holder span {
+    font-family: 'Trade Gothic Bold Condensed';
+    font-size: 16px;
+    color: #000;
+    align-self: center;
+}
+
+.icon-holder span.icon:before {
+    content: '';
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+}
+
+.icon-holder span.icon svg {
+    height: 100%;
+    width: 100%;
+}
+
+.icon svg {
+    width: 100%;
+    height: 100%;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+.utility-icons ul:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.section-block,
+.space-lg-top {
+    margin-top: 80px;
+}
+
+.product-lst {
+    width: 100%;
+}
+
+.product-lst .ow-content-module-main-wrap.kay-product-carousel {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.kay-product-carousel .section-title {
+    padding-bottom: 40px;
+}
+
+.category-title,
+.main-title,
+.nutrition-titles .main-title,
+.product-category-list .ow-tab-title h2,
+.product-category-list .ow-tab-title span,
+.section-title,
+.section-title h2,
+.section-title h3,
+.view-recipe-popup-main .ow-spices-review-share-wrap h3,
+section#reviews .main-title {
+    font-size: 42px;
+    font-family: Neuzeit, sans-serif;
+    color: #000;
+    line-height: 1.2;
+}
+
+@media (min-width: 1100px) {
+    .kay-product-carousel .product-content-module {
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+}
+
+.slick-slider .slick-list,
+.slick-slider .slick-track {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.slick-list.draggable {
+    width: 100%;
+    max-width: 100%;
+}
+
+.slick-list {
+    position: relative;
+    overflow: hidden;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.ow-carousel .slick-track,
+.ow-tab-carousel .slick-track {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: 10px;
+}
+
+.slick-track {
+    position: relative;
+    left: 0;
+    top: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slick-track {
+    min-width: 100%;
+}
+
+.slick-track:after,
+.slick-track:before {
+    content: '';
+    display: table;
+}
+
+.section-block .ow-carousel .slick-track .slick-slide,
+.space-lg-top .ow-carousel .slick-track .slick-slide {
+    padding-bottom: 0;
+}
+
+.ow-carousel .slick-track .slick-slide,
+.ow-tab-carousel .slick-track .slick-slide {
+    margin-right: 0;
+    margin-left: 0;
+    padding-bottom: 10px;
+    flex: auto;
+}
+
+.slick-initialized .slick-slide {
+    display: block;
+}
+
+.ow-content-module-main-wrap .slick-slide {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.slick-slide {
+    float: left;
+    display: block;
+    min-height: 1px;
+}
+
+.product-lst .ow-content-module-main-wrap .content-module-card-wrap {
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+.content-module-card-wrap {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    max-width: 274px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.clickable-card {
+    position: relative;
+}
+
+.content-module-card-wrap .content-module-card {
+    background: #f8f8f8;
+}
+
+.content-module-card-wrap .content-module-card {
+    padding-top: 50%;
+    padding-bottom: 50%;
+    position: relative;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: #f1f1f1;
+    border-radius: 50%;
+    margin: 0 auto 40px auto;
+    text-align: center;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.content-module-card-wrap .circle-image-content {
+    position: absolute;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    z-index: 20;
+}
+
+.clickable-card a:not(.stretched-link),
+.clickable-card button {
+    position: relative;
+    z-index: 30;
+    height: 100%;
+    display: block;
+}
+
+.circle-image-content a,
+.clickable-card a,
+.p-w-r .pr-snippet .pr-snippet-stars-png .pr-snippet-rating-decimal,
+.product-card-title a,
+.recipe-title,
+.tab-filter-slider .see-more-recipe {
+    background: rgba(255, 255, 255, 0.01);
+}
+
+.content-module-card-wrap .circle-image-content img {
+    cursor: pointer;
+    margin: auto;
+    max-width: 85%;
+}
+
+.slick-slide img {
+    display: block;
+}
+
+html body img {
+    width: auto;
+    max-width: 100%;
+}
+
+.content-module-card-wrap .utility-icons {
+    margin-bottom: 10px;
+}
+
+.position-center {
+    text-align: center;
+}
+
+.utility-icons {
+    position: relative;
+    display: block;
+}
+
+.utility-icons ul {
+    display: inline-block;
+}
+
+.content-module-card-wrap .utility-icons ul li {
+    margin-right: 20px;
+    display: block;
+}
+
+.utility-icons ul li {
+    float: left;
+    margin-right: 15px;
+}
+
+.content-module-card-wrap .map-icon button {
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    margin: 0;
+}
+
+.utility-icons .icon-button {
+    background: 0 0;
+    border: none;
+    padding: 0;
+}
+
+.clickable-card a:not(.stretched-link),
+.clickable-card button {
+    position: relative;
+    z-index: 30;
+    height: 100%;
+    display: block;
+}
+
+.content-module-card-wrap .utility-icons ul li .icon-holder span.icon {
+    margin-right: 0;
+}
+
+.utility-icons ul li .icon-holder span.icon {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.icon-holder span.icon {
+    margin-right: 5px;
+    position: relative;
+    width: 38px;
+    height: 38px;
+}
+
+.icon-holder span {
+    font-family: 'Trade Gothic Bold Condensed';
+    font-size: 16px;
+    color: #000;
+}
+
+.icon-holder span.icon:before {
+    content: '';
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+}
+
+.utility-icons ul:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.content-module-card-wrap .product-card-title,
+.content-module-card-wrap .product-title {
+    font-family: 'Trade Gothic Bold Condensed';
+    font-size: 24px;
+    color: #000 !important;
+}
+
+.content-module-card-wrap .product-card-title a,
+.content-module-card-wrap .product-card-title p,
+.content-module-card-wrap .product-title a,
+.content-module-card-wrap .product-title p {
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+}
+
+.content-module-card-wrap .product-card-title a {
+    text-decoration: none;
+    color: black !important;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.content-module-card-wrap .product-card-title a:hover {
+    color: red !important;
+}
+
+.category-title,
+.main-title,
+.nutrition-titles .main-title,
+.product-category-list .ow-tab-title h2,
+.product-category-list .ow-tab-title span,
+.section-title,
+.section-title h2,
+.section-title h3,
+.view-recipe-popup-main .ow-spices-review-share-wrap h3,
+section#reviews .main-title {
+    font-size: 42px;
+    font-family: Neuzeit, sans-serif;
+    color: #000;
+    line-height: 1.2;
+}
+
+.nutrition-module small {
+    font-size: 16px;
+    color: #414141;
+    font-family: 'Trade Gothic Bold Condensed';
+}
+
+.nutrition-link {
+    margin-top: 10px;
+}
+
+.nutrition-link a {
+    color: #da291c !important;
+}
+
+.nutrition-link a:hover {
+    text-decoration: underline !important;
+}
+
+.content-module-card-wrap .product-card-title a,
+.content-module-card-wrap .product-card-title p,
+.content-module-card-wrap .product-title a,
+.content-module-card-wrap .product-title p {
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+}
+
+.clickable-card a:not(.stretched-link),
+.clickable-card button {
+    position: relative;
+    z-index: 30;
+    height: 100%;
+    display: block;
+}
+
+.circle-image-content a,
+.clickable-card a,
+.p-w-r .pr-snippet .pr-snippet-stars-png .pr-snippet-rating-decimal,
+.product-card-title a,
+.recipe-title,
+.tab-filter-slider .see-more-recipe {
+    background: rgba(255, 255, 255, 0.01);
+}
+
+.product-card-title a {
+    font-family: inherit;
+    font-size: inherit;
+    -webkit-columns: inherit;
+    columns: inherit;
+}
+
+.ow-content-module-main-wrap .section-title {
+    font-weight: 400;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+
+.recipe-about-module-details .main-title {
+    font-weight: 400;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+
+.bc-player-default_default {
+    width: 100% !important;
+    height: 40rem !important;
+}
+
+.brightcove-react-player-loader{
+    width: 100%;
+}

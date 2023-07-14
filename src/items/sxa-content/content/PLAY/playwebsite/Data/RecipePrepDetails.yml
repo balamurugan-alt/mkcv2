@@ -1,0 +1,55 @@
+﻿---
+ID: "3c15dc03-951a-40a5-a287-e8b347434db7"
+Parent: "44864379-85fa-46df-a102-35a8bc2391b5"
+Template: "4784dae3-bd48-4c24-818b-d0f22ad854f7"
+Path: /sitecore/content/PLAY/playwebsite/Data/RecipePrepDetails
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "160b5bc3-af26-4cd3-9af7-ccdbfcaeef42"
+      Hint: IngredientsText
+      Value: Ingredients
+    - ID: "22bcf78e-c7cf-44ac-89a8-904b81c47009"
+      Hint: Calories
+      Value: 145
+    - ID: "2e9594fc-0566-412a-a7e0-c806d944b1f8"
+      Hint: PrepText
+      Value: PrepTime
+    - ID: "342fbfb2-268c-48b9-b5a6-ca4d8e6e1b62"
+      Hint: PrepTimeTitle
+      Value: "How long does green bean casserole take to cook?"
+    - ID: "5ee8ee7b-65e7-4ead-b29b-a3060d41a0d1"
+      Hint: CaloriesText
+      Value: Calories
+    - ID: "61b466b3-13ff-4606-a3df-7d282becd573"
+      Hint: ChefNotes
+      Value: "To some, this dish is the highlight of any holiday table. Plus, it counts as a vegetable in the middle of all those starchy sides. Topped with French’s Original Crispy Fried Onions …. wait, does that mean it counts for two veggies?!"
+    - ID: "66e2f7e7-06de-4a6b-b09e-eb970ba696a3"
+      Hint: CookTime
+      Value: 35m
+    - ID: "7a58be2b-b5d2-4b04-b0bd-2ee04b7068dc"
+      Hint: IngredientsCount
+      Value: 5
+    - ID: "87cb5eac-5426-4b3f-ba06-92b8f2d993d2"
+      Hint: ChefImage
+      Value: |
+        <image mediaid="{A1F6420D-9FAD-4E18-B27B-59CD1BA00246}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a3d93ea-10d1-490a-9984-9b327dac6d8e"
+    - ID: "b5275e41-3e29-4be2-b9ab-07ad22982ffb"
+      Hint: CookText
+      Value: CookTime
+    - ID: "b6d0fd11-c5e7-408c-8af3-0a4055c8fcc4"
+      Hint: PrepTime
+      Value: 5m
+    - ID: "d8c4eb9e-4b91-4e24-a53f-4f391bb1be00"
+      Hint: ChefTitle
+      Value: Chef Cindy
+    - ID: "ea254435-b5d6-4fea-a645-8ab4663054ce"
+      Hint: Recipe_Description
+      Value: |
+        <p>Ready to make the best green bean casserole? Creamy mushroom sauce surrounded by tender green beans, topped with the crunchy flavor of French's Crispy Fried Onions make this holiday casserole an instant classic. You can use fresh, frozen or canned green beans for this dish. Just add a dash (or two) of black pepper to kick up the spice in this family favorite. This simple holiday green bean casserole recipe is ready in just 40 minutes - for a Thanksgiving dinner full of flavor the family will remember for years.</p>
+        <h4>Follow our green bean casserole recipe below to make the classic tasty side dish for your holiday feast.</h4>

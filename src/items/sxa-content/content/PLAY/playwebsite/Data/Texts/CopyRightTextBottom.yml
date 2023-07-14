@@ -1,0 +1,23 @@
+﻿---
+ID: "9d174a4e-6802-4f9a-8f09-8fb013ff998e"
+Parent: "e54b6b6f-32e1-448a-bba2-41c624dec5b9"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/PLAY/playwebsite/Data/Texts/CopyRightTextBottom
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="mcus-footer-bottom">
+        <p class="copyright"><a target="_blank" href="/articles/mccormick/nutrition-terms-you-should-know">*Click here to view our nutritional definitions.</a></p>
+        <br />
+        <p class="copyright clear">Because we are constantly improving our products, we encourage you to read the ingredient statement on our packages at the time of your purchase.</p>
+        <br />
+        <p class="copyright clear">Copyright © 2023 McCormick &amp; Company, Inc. All Rights Reserved. The Taste You Trust™</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc180045-ab78-4319-b813-924e86ed1e59"

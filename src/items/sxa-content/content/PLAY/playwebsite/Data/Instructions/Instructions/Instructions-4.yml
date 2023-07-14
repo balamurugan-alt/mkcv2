@@ -1,0 +1,23 @@
+﻿---
+ID: "054e3e5a-aca8-4ca2-8fd6-488cb83ed3ab"
+Parent: "fe79cd60-112b-454a-96d5-fcc27eb32335"
+Template: "a9656b6e-6db9-4b43-8737-0d1e01fc7f19"
+Path: "/sitecore/content/PLAY/playwebsite/Data/Instructions/Instructions/Instructions-4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "30d7747c-a705-4ac4-bed3-3a9fed3d5159"
+      Hint: Details
+      Value: |
+        <span class="para"><b>Test Kitchen Tips:</b><br />
+        • For a kick of spice, double the black pepper in this green bean casserole recipe to 1/4 teaspoon and prepare as directed.<br />
+        • To feed a crowd, double the recipe and prepare in a 13x9-inch baking dish. Use an entire 6-ounce container of Crispy Fried Onions, reserving 1 1/3 cup for the topping. Increase cooking time to 40 minutes or until heated through.<br />
+        • If using fresh or frozen green beans, make sure to cook them first! Blanch fresh green beans until tender, or steam frozen beans as directed on package. </span>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a1407bc-89f8-4bbb-bfd1-05a0f96df618"
+    - ID: "97fb2296-1961-460c-98b8-bdf2cdafd08b"
+      Hint: Heading
+      Value: 

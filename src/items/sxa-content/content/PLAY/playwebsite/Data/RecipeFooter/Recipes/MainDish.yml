@@ -1,0 +1,17 @@
+﻿---
+ID: "9e8ef531-8dac-4f61-bcef-b3eed712d806"
+Parent: "7fcb0410-2c5a-4e2a-abdb-aa31ebbbdeaf"
+Template: "ce8e28f6-c530-4bd5-9ca5-00d7d42c26c0"
+Path: /sitecore/content/PLAY/playwebsite/Data/RecipeFooter/Recipes/MainDish
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7bd7ebf1-3a01-46bf-b520-bd33db5d8960"
+    - ID: "a277748b-2c48-44a6-a99f-c9f353933027"
+      Hint: Link
+      Value: |
+        <link class="" id="{1F4B781B-F2A5-5647-99DF-C0C369162C4D}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/PLAY/playwebsite/home/speakers" />

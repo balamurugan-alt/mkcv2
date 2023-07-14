@@ -1,0 +1,13 @@
+﻿---
+ID: "865c7b22-3547-4dca-98f9-b6aa1a719518"
+Parent: "1a8fa205-638f-4f75-adf8-0f8e169bb6cc"
+Template: "ce8e28f6-c530-4bd5-9ca5-00d7d42c26c0"
+Path: /sitecore/content/PLAY/playwebsite/Data/RecipeFooter/Other Products/Mccormick
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a4d1b58-8203-432a-9561-bee612942991"

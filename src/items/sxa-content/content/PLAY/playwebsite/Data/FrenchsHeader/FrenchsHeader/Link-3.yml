@@ -1,0 +1,24 @@
+﻿---
+ID: "5644521b-3ccf-44b5-8707-09e7d4738f88"
+Parent: "a91bf428-074c-4caf-9e8e-327bb4e08b0e"
+Template: "e1c74c7e-995f-4929-bb14-f24aa7ce7de1"
+Path: "/sitecore/content/PLAY/playwebsite/Data/FrenchsHeader/FrenchsHeader/Link-3"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2107edf3-e947-4c72-aba8-1cc0b82e6d67"
+      Hint: Title
+      Value: Where to Buy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77e6d37c-6ff2-482c-86f6-f808276383ec"
+    - ID: "b0c6b079-25c1-4cf1-8eca-f5530a02ecbe"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}" />

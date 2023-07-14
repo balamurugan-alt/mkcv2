@@ -1,0 +1,21 @@
+﻿---
+ID: "e1c54116-4b35-4d95-b193-d0daf0c9e545"
+Parent: "19034d30-3f85-43f6-b0d1-c695c2af3c69"
+Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
+Path: /sitecore/content/PLAY/playwebsite/Data/Link Lists/FooterLinkList/LegalMessage
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
+      Hint: Link
+      Value: |
+        <link text="LegalMessage" linktype="external" url="https://www.mccormick.com/legal-message" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50dc2935-f769-4038-a1cc-cef20c1e1d3d"

@@ -1,0 +1,18 @@
+﻿---
+ID: "b9dfecf5-a6d5-4b48-9395-edfe1893d370"
+Parent: "b88b5702-8208-4d96-93a6-f2090d71c733"
+Template: "25033b93-c2d5-4a96-b703-0c56fbb4692f"
+Path: /sitecore/content/PLAY/playwebsite/Data/IngredientL List/IngredientList/CupMilk
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12ec8929-5784-4bc2-8a7e-17b669ff0016"
+      Hint: Description
+      Value: |
+        3/4 Cup milk
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ce8ea84-d706-4700-b774-4d6906eebed6"

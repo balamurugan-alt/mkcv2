@@ -1,0 +1,28 @@
+﻿---
+ID: "ba39eced-f1bc-4bb1-89aa-10157286644a"
+Parent: "9575fc91-c3a0-4b9d-9565-411b7ce8ba88"
+Template: "831a5cd5-a3a1-4eee-ad55-8c332f0d0750"
+Path: /sitecore/content/PLAY/playwebsite/Data/SocialmediaFolder/SocialMediaLinks/Instagram
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "27aa9c89-ec33-4788-82a6-92831eef0dab"
+      Hint: IconTitle
+      Value: Instagram
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d805f663-5313-4f43-8c8b-c69ea4660693"
+    - ID: "a20b32e6-d9a8-41d6-9950-c02475be6519"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.instagram.com/frenchs/" anchor="" target="" />
+    - ID: "f5e8d1a3-376c-4222-aa26-a3492342d47e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{928E798D-791B-45CC-B11B-8E09671409E6}" />

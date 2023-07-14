@@ -1,0 +1,25 @@
+﻿---
+ID: "4d110281-c58a-400f-b310-c9c5f054b8c2"
+Parent: "b88b5702-8208-4d96-93a6-f2090d71c733"
+Template: "25033b93-c2d5-4a96-b703-0c56fbb4692f"
+Path: /sitecore/content/PLAY/playwebsite/Data/IngredientL List/IngredientList/BlackPepper
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12ec8929-5784-4bc2-8a7e-17b669ff0016"
+      Hint: Description
+      Value: |
+        1/8
+        teaspoon
+        
+         
+        <a href="/spices-and-flavors/herbs-and-spices/spices/black-pepper-ground" class="btn-link">McCormick® Pure Ground Black Pepper</a>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed10cafb-5b41-4e2e-a4aa-1964c34b6816"

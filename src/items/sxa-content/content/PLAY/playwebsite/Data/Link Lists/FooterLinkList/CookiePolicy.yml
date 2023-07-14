@@ -1,0 +1,21 @@
+﻿---
+ID: "d3df14a1-2875-4277-8f54-ea786be5f507"
+Parent: "19034d30-3f85-43f6-b0d1-c695c2af3c69"
+Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
+Path: /sitecore/content/PLAY/playwebsite/Data/Link Lists/FooterLinkList/CookiePolicy
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
+      Hint: Link
+      Value: |
+        <link text="CookiePolicy" linktype="external" url="https://www.mccormick.com/cookie-policy" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5dea58d7-b99f-49ac-838f-006766a76af1"

@@ -1,0 +1,21 @@
+﻿---
+ID: "0a58fd22-5fa5-496c-89b9-8e9546b8eee5"
+Parent: "44864379-85fa-46df-a102-35a8bc2391b5"
+Template: "e68faeb8-3f1d-4248-b2e6-05dc44fe2598"
+Path: /sitecore/content/PLAY/playwebsite/Data/FrenchRecipeBanner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "36117c82-5df4-4edb-9e7c-0077f98c1ab8"
+      Hint: Desktop_Image
+      Value: |
+        <image mediaid="{A1315132-4A7C-48A0-B38E-9D692ACD93A7}" />
+    - ID: "78c53180-a867-4a48-b0e6-b42d3363d581"
+      Hint: Mobile_Image
+      Value: |
+        <image mediaid="{A1315132-4A7C-48A0-B38E-9D692ACD93A7}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bb66282-f417-4b23-98a8-eb5f02690c3f"

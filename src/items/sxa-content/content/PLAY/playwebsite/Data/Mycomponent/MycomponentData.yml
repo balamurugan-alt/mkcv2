@@ -1,0 +1,19 @@
+﻿---
+ID: "5482e6df-79a8-4f45-8ea8-81fc2472b9f0"
+Parent: "2b76548b-7343-42d3-ba01-1ba8546d7a8e"
+Template: "92438bad-5f07-4c86-9be0-5e339368e191"
+Path: /sitecore/content/PLAY/playwebsite/Data/Mycomponent/MycomponentData
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05c6bd1f-3c27-483c-9017-a3308572dcb2"
+      Hint: Heading
+      Value: TIPS AND TRICKS
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f74cb789-76ec-42b3-9755-46c229b2da49"
+    - ID: "a75a5540-cf61-4806-906a-b0b9878f42bb"
+      Hint: Title
+      Value: Prepare salad with leftover roast or grilled chicken or purchased rotisserie chicken. For variety, cooked steak, cut into thin strips, or cooked shrimp can be used in place of the chicken.

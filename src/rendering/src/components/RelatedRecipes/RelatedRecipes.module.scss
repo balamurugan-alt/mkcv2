@@ -1,0 +1,46 @@
+@import 'styles/sass/variables/variables';
+@import 'styles/sass/abstracts/mixins';
+
+.card {
+  width: 100%;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  border: none;
+  box-shadow: 0px 5px 5px rgb(0 0 0 / 30%);
+  @include respond-to('tab') {
+    width: 18rem;
+    margin: 16px;
+    border: none;
+    box-shadow: 0px 10px 10px rgb(0 0 0 / 30%);
+  }
+}
+
+.cardbody {
+  flex-direction: column;
+
+  @include respond-to('tab') {
+    flex-direction: row;
+  }
+}
+
+.title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: black;
+}
+
+.surround {
+  padding: 20px;
+  i {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    margin: 2px;
+  }
+}

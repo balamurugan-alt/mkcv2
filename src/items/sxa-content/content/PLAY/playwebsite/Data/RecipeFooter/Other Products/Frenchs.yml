@@ -1,0 +1,13 @@
+﻿---
+ID: "b17a900f-9fca-4fcf-aa05-38976bea4b86"
+Parent: "1a8fa205-638f-4f75-adf8-0f8e169bb6cc"
+Template: "ce8e28f6-c530-4bd5-9ca5-00d7d42c26c0"
+Path: /sitecore/content/PLAY/playwebsite/Data/RecipeFooter/Other Products/Frenchs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d1169ff-fd39-401a-8caf-fef1a5c8c84f"

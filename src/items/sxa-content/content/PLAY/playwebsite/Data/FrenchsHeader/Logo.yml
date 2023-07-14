@@ -1,0 +1,25 @@
+﻿---
+ID: "82cc651b-3bde-4678-8339-ca1ce1ca4098"
+Parent: "be4b7297-ac26-4e79-ac6d-f690e81db073"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: /sitecore/content/PLAY/playwebsite/Data/FrenchsHeader/Logo
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="{04FD5504-C4E5-418A-9F70-77C9D7D54AAF}" />
+    - ID: "75fbf1b1-e7c5-494b-9633-693909f79425"
+      Hint: TargetUrl
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3166f2bd-487a-4be9-9114-5f8033f1c075"

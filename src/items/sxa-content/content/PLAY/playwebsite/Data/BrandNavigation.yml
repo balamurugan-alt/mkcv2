@@ -1,0 +1,13 @@
+﻿---
+ID: "6e6caa70-dd40-4ec5-ada9-6a7161a50705"
+Parent: "44864379-85fa-46df-a102-35a8bc2391b5"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/Data/BrandNavigation
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f26904ce-fe21-4a3d-bcc5-300c75011bb4"

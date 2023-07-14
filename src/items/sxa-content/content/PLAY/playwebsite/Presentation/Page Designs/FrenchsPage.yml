@@ -1,0 +1,17 @@
+﻿---
+ID: "5dc0eca3-573b-4ddd-bc38-a3987ebd9936"
+Parent: "2dc25a94-3fd5-4a15-88a5-fa038cb3d035"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/PLAY/playwebsite/Presentation/Page Designs/FrenchsPage
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{8DC4DDED-AFC2-4412-8DB8-8C3E96AA6313}|{AB80B7FF-0DC8-410D-80F5-31F925FA5F3D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef4f2fe3-f9d5-4541-a6eb-0289c938a685"

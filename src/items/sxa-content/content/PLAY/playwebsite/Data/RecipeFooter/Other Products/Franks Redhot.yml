@@ -1,0 +1,13 @@
+﻿---
+ID: "3d4af6c5-2b84-4152-a8bc-a4b51e0c5b87"
+Parent: "1a8fa205-638f-4f75-adf8-0f8e169bb6cc"
+Template: "ce8e28f6-c530-4bd5-9ca5-00d7d42c26c0"
+Path: /sitecore/content/PLAY/playwebsite/Data/RecipeFooter/Other Products/Franks Redhot
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a3c5c32-247b-418d-b928-6f172ede84d7"

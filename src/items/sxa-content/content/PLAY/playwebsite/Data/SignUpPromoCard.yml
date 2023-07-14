@@ -1,0 +1,27 @@
+﻿---
+ID: "bc207bb4-1393-4e6b-8092-d52c0763e020"
+Parent: "44864379-85fa-46df-a102-35a8bc2391b5"
+Template: "45bad367-4651-40ed-806d-81e8201a23a6"
+Path: /sitecore/content/PLAY/playwebsite/Data/SignUpPromoCard
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "40bdf3f6-3977-49e4-864e-3e646fbcc41d"
+      Hint: CardDescription
+      Value: "We've got everything you need to up your kitchen game - plus, special offers and discounts just for you!"
+    - ID: "455e8f69-6964-4804-aa11-04595a7fddb7"
+      Hint: CardTitle
+      Value: Set up your flavor profile
+    - ID: "7e72b9fb-4e22-4ca4-b5c7-749b55a30fa6"
+      Hint: CardButton
+      Value: |
+        <link text="Sign Up Now" linktype="external" url="http://google.com" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e763f32-c08f-4de7-bf1f-9b41dc5e53a7"
+    - ID: "e8dc36a5-bcee-4ce8-b907-97f269b828db"
+      Hint: CardImage
+      Value: |
+        <image mediaid="{30543FBF-BB59-41B5-B603-69AF73A69A2A}" />

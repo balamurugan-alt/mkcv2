@@ -1,0 +1,76 @@
+﻿---
+ID: "fd19e3c3-1bcb-49c8-85fa-bf6124471538"
+Parent: "e54b6b6f-32e1-448a-bba2-41c624dec5b9"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/PLAY/playwebsite/Data/Texts/GetProfile
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="row"><div class="col-md-8 col-lg-8 footer-utility-section">
+        <div class="row">
+        <div class="row component column-splitter">
+        <div class="col-lg-4">
+        <div class="row">
+        <div class="component generic-content col-12 get-flaver-maker">
+        <div class="component-content">
+        <div class="row">
+        <div class="col-12 field-title">Get Flavor maker</div>
+        <div class="col-4 field-image">
+        <img class="lazy" height="120" alt="Flavor Maker Icon" width="120" src="~/media/F2DFDC116DA1485A8CE2DFC74A82E6C6.ashx" data-cookiecategory="15" /></div>
+        <div class="col-8 field-text">Manage your digital pantry, create shopping lists, get recipe inspiration and more.</div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="col-lg-6 footer-app-store">
+        <div class="row">
+        <div class="component image file-type-icon-media-link  col-6 position-right">
+        <div class="component-content">
+        <a title="Image 3" href="http://bit.ly/2RzM16t" target="_blank" rel="noopener noreferrer">
+        &nbsp;<img class="lazy" alt="Download Flavor Maker for Android" width="160" src="~/media/A2257FB4FAD84D778D55EE430A3A2BE2.ashx" data-cookiecategory="15" /></a>
+        <span class="spice-bottle-background field-image-bottle-backgroud"></span>
+        <span class="image-caption field-imagecaption">Google</span>
+        </div>
+        </div>
+        <div class="component image file-type-icon-media-link  col-6">
+        <div class="component-content">
+        <a title="Image 2" href="https://apple.co/2UcKWmL" target="_blank" rel="noopener noreferrer">
+        &nbsp;<img class="lazy" height="54" alt="Download Flavor Maker for iPhone" width="160" src="~/media/B528E57ADFF94F60801C3CEB5F5D8256.ashx" data-cookiecategory="15" /></a>
+        <span class="spice-bottle-background field-image-bottle-backgroud"></span>
+        <span class="image-caption field-imagecaption">App</span>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="col-md-4 col-lg-4">
+        <div class="row">
+        <div class="component generic-content col-12 footer-contact">
+        <div class="component-content">
+        <div class="row">
+        <div>
+        <div class="field-title">Question?</div>
+        <div class="field-text">
+        Search FAQ's or Contact Us
+        </div>
+        </div>
+        <div class="field-link">
+        <a class="ow-btn-secondary" href="https://www.mccormick.com/frenchs/contact">Contact Us</a>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ea90e6a-e867-4165-852e-9b778fbb0c13"

@@ -1,0 +1,28 @@
+﻿---
+ID: "2b387b3a-68bf-47e9-a4e2-80561fc25e0b"
+Parent: "9575fc91-c3a0-4b9d-9565-411b7ce8ba88"
+Template: "831a5cd5-a3a1-4eee-ad55-8c332f0d0750"
+Path: /sitecore/content/PLAY/playwebsite/Data/SocialmediaFolder/SocialMediaLinks/Facebook
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "27aa9c89-ec33-4788-82a6-92831eef0dab"
+      Hint: IconTitle
+      Value: Facebook
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da05680e-711f-448d-aa46-2c31ef7d5523"
+    - ID: "a20b32e6-d9a8-41d6-9950-c02475be6519"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.facebook.com/Frenchs" anchor="" target="_blank" />
+    - ID: "f5e8d1a3-376c-4222-aa26-a3492342d47e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{4D50903D-0B1D-400C-A7F7-AAE6A9F903EB}" />

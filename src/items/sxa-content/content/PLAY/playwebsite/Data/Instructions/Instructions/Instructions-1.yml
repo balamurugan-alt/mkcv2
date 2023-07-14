@@ -1,0 +1,19 @@
+﻿---
+ID: "6f3c9615-a8dc-48c5-a9d1-50681d091cee"
+Parent: "fe79cd60-112b-454a-96d5-fcc27eb32335"
+Template: "a9656b6e-6db9-4b43-8737-0d1e01fc7f19"
+Path: "/sitecore/content/PLAY/playwebsite/Data/Instructions/Instructions/Instructions-1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "30d7747c-a705-4ac4-bed3-3a9fed3d5159"
+      Hint: Details
+      Value: "<p>Preheat oven to 350&deg;F. Mix cream of mushroom soup, milk and pepper in 1 1/2-quart baking dish. Stir in green beans and 2/3 cup Crispy Fried Onions.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d0011f3-f8de-4c83-87c1-9988b34996e9"
+    - ID: "97fb2296-1961-460c-98b8-bdf2cdafd08b"
+      Hint: Heading
+      Value: "How to Make Green Bean Casserole:"

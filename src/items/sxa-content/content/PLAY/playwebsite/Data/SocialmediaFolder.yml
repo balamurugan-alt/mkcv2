@@ -1,0 +1,13 @@
+﻿---
+ID: "f8e167b1-9e5c-45b5-b360-a9c2040c9fca"
+Parent: "44864379-85fa-46df-a102-35a8bc2391b5"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/Data/SocialmediaFolder
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b788b30-7c7e-472f-9900-ef251ac0553f"

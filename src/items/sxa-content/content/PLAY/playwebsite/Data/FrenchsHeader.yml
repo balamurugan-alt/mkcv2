@@ -1,0 +1,13 @@
+﻿---
+ID: "be4b7297-ac26-4e79-ac6d-f690e81db073"
+Parent: "44864379-85fa-46df-a102-35a8bc2391b5"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/Data/FrenchsHeader
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61c3b287-cc99-4909-8795-6dbd484e5d72"
