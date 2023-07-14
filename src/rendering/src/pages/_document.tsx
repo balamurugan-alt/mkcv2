@@ -25,11 +25,7 @@ class MyDocument extends Document {
             src="//destinilocators.com/mccormickcompany/pdpwidget/install/"
             strategy="lazyOnload"
           />
-          <script
-            type="text/javascript"
-            src="//ui.powerreviews.com/stable/4.1/ui.js"
-            async
-          ></script>
+          <Script src="https://connect.facebook.net/en_US/all.js" strategy="beforeInteractive" />
           <Script src="https://connect.facebook.net/en_US/all.js" strategy="lazyOnload" />
         </body>
       </Html>
