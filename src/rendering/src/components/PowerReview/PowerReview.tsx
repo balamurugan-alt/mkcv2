@@ -44,6 +44,10 @@ const PowerReviews = () => {
   };
 
   useEffect(() => {
+    const script = document.createElement('script');
+    script.src = '../../assets/js/powerreviews-4.1.js';
+    script.async = true;
+    document.body.appendChild(script);
     renderPowerReviews();
   }, []);
 
