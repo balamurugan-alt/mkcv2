@@ -27,7 +27,8 @@ const nextConfig = {
     domains: [
       'xmc-altudo1-sitecorepra14b9-mccormickdev.sitecorecloud.io'
     ],
-    deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840]
+    deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
+    imageSizes: [16, 32, 48, 64, 96, 128, 256, 384]
   },
   // Make the same PUBLIC_URL available as an environment variable on the client bundle
   env: {
