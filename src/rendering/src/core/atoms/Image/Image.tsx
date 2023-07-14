@@ -44,6 +44,7 @@ const Image = ({ field, className, priority, loading }: ImageProps): JSX.Element
         className={className}
         priority={priority}
         loading={loading}
+        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
       />
     );
   }
