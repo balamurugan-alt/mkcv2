@@ -44,15 +44,12 @@ const PowerReviews = () => {
   };
 
   useEffect(() => {
-    const script = document.createElement('script');
-    script.src = '../../assets/js/powerreviews-4.1.js';
-    script.async = true;
-    document.body.appendChild(script);
     renderPowerReviews();
   }, []);
 
   return (
     <>
+      <script type="text/javascript" src="//ui.powerreviews.com/stable/4.1/ui.js" async></script>
       <h1>Power Review</h1>
       <div id="pr-write" className="m-2"></div>
     </>
