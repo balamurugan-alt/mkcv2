@@ -34,7 +34,11 @@ const nextConfig = {
   env: {
     PUBLIC_URL: publicUrl,
   },
-
+  pages: {
+    '*': {
+      maxChunkSize: 30000
+    },
+  },
   i18n: {
     // These are all the locales you want to support in your application.
     // These should generally match (or at least be a subset of) those in Sitecore.
@@ -50,7 +54,6 @@ const nextConfig = {
     defaultLocale: jssConfig.defaultLanguage,
     localeDetection: false, // DEMO TEAM CUSTOMIZATION - Disable locale detection
   },
-  
   // Enable React Strict Mode
   reactStrictMode: true,
 
