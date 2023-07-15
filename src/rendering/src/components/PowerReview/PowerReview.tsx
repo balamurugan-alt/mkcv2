@@ -2,6 +2,7 @@ import $ from 'jquery';
 import { useEffect } from 'react';
 
 import { HelmetProvider, Helmet } from 'react-helmet-async';
+import { Script } from 'next/script';
 
 interface PowerReviewsDisplay {
   display: {
@@ -53,7 +54,7 @@ const PowerReviews = () => {
     <>
       <HelmetProvider>
         <Helmet>
-          <script type="text/javascript" src="//ui.powerreviews.com/stable/4.1/ui.js" async />
+          <Script src="//ui.powerreviews.com/stable/4.1/ui.js" />
         </Helmet>
         <h1>Power Review</h1>
         <div id="pr-write" className="m-2"></div>
