@@ -2,7 +2,7 @@ import $ from 'jquery';
 import { useEffect } from 'react';
 
 import { HelmetProvider, Helmet } from 'react-helmet-async';
-import { Script } from 'next/script';
+import Script from 'next/script';
 
 interface PowerReviewsDisplay {
   display: {
